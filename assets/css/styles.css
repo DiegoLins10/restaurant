@@ -13,6 +13,7 @@
   --text-color-light: #A6A6A6;
   --body-color: #FBFEFD;
   --container-color: #FFFFFF;
+  --border: rgb(3, 3, 3);
 
   /*========== Font and typography ==========*/
   --body-font: 'Poppins', sans-serif;
@@ -68,6 +69,7 @@ body.dark-theme{
   --text-color: #C7D1CC;
   --body-color: #1D2521;
   --container-color: #27302C;
+  --border: #fff;
 }
 
 /*========== Button Dark/Light ==========*/
@@ -396,6 +398,7 @@ img{
 .app__img{
   width: 230px;
   justify-self: center;
+  border: var(--first-color) solid;
 }
 
 /*========== CONTACT ==========*/
