@@ -8,6 +8,6 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-### You can see the web site here
+### You can see the web site here :tangerine:
 Link: https://naturalle.netlify.app/
 
