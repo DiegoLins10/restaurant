@@ -1,5 +1,5 @@
-# Responsive Restaurant Website 🌊
-###  Responsive Restaurant Website 🌊
+# Responsive Restaurant Website :spaghetti:
+###  Responsive Restaurant Website :eggplant:
 
 - Restaurant website to the most tasty foods, using HTML, CSS & JAVASCRIPT.
 - Contains animations when scrolling.
